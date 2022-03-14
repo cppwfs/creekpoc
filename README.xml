@@ -1,7 +1,0 @@
-= Single App Sample for Kayak demo 
-
-== Build the application
-```
-cd streampoc
-mvn clean package
-```
